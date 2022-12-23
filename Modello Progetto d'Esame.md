@@ -21,18 +21,28 @@ Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 
 ## Processo di produzione
 
-Studio e analisi del tema 
-Studio competitor
-Definizione del target
-Definizione dei canali e licenze di distribuzione
+- Studio competitor: molti canali Youtube amatoriali, ma le informaioni che forniscono sono spesso frammentarie, dispersive e non strutturate come un vero corso.
+
+- Definizione del target: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
+
+- Studio e analisi del tema: ricerche sui manuali reali dei DAW, ricerche sugli effetti audio e plugin più usati interni e esterni al DAW.
+
+- Definizione dei canali: sito web specifico, pubblicizzazione tramite dei shorts sui social (TikTok, Instagram, Facebook), eventuali lezioni in diretta su Teams/Zoom.
+- licenze di distribuzione: eventuale certificazione ufficiale.
+- Originalità e obbiettivi comunicativi: Corso inteso per chi produce musica e non solo incentrato sull'uso del DAW. 
+Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
+- Modello di business: vendita del pacchetto del corso.
+
 Definizione dei formati  
 Definizione dell’identità visuale
+
 Identificazione delle fonti
 Diritti e aspetti legali
 Cronoprogramma  Suddivisione dei task
-Originalità e obbiettivi comunicativi
-Modello di
-business
+
+
+
+
 
 Descrivere le attività sviluppate all'interno del progetto per realizzare il prodotto.
 > Nel farlo è utile riferirsi alle possibili attività elencate nella lezione 5, slide 4-7. 
