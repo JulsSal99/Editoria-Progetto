@@ -5,7 +5,9 @@
 `` Giulio Salada 951327`` 
 `` Alessandro Canclini `` 
 
-# Videocorso - Come produrre Musica in **nome DAW**. Corso medio-base.
+
+
+# Videocorso - Come produrre Musica in [DAW]. Corso medio-base.
 
 ## Introduzione
 
@@ -20,37 +22,46 @@ Originalità: Corso inteso per chi produce musica e non solo incentrato sull'uso
 Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 
 ## Processo di produzione
+<br>
+<!---->
+
+- Studio e analisi del tema: produzione di un manuale per la produzione musicale alla fine della preparazione alla pubblicazione di tracce sui servizi di streaming.
+
+<br>
+<!---->
 
 - Studio competitor: molti canali Youtube amatoriali, ma le informaioni che forniscono sono spesso frammentarie, dispersive e non strutturate come un vero corso.
-
 - Definizione del target: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
-
-- Studio e analisi del tema: ricerche sui manuali reali dei DAW, ricerche sugli effetti audio e plugin più usati interni e esterni al DAW.
-
+- Studio e analisi del tema: ricerche sui manuali reali dei [DAW], ricerche sugli effetti audio e plugin più usati interni e esterni al [DAW].
 - Definizione dei canali: sito web specifico, pubblicizzazione tramite dei shorts sui social (TikTok, Instagram, Facebook), eventuali lezioni in diretta su Teams/Zoom.
 - licenze di distribuzione: eventuale certificazione ufficiale.
-- Originalità e obbiettivi comunicativi: Corso inteso per chi produce musica e non solo incentrato sull'uso del DAW. 
+- Originalità e obbiettivi comunicativi: Corso inteso per chi produce musica e non solo incentrato sull'uso del [DAW]. 
 Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 - Modello di business: vendita del pacchetto del corso.
 
-Definizione dei formati  
-Definizione dell’identità visuale
+<br>
+<!---->
 
-Identificazione delle fonti
-Diritti e aspetti legali
-Cronoprogramma  Suddivisione dei task
+- Definizione dei formati: HTML/LaTex/MD/PDF
+- Definizione dell’identità visuale: testo scritto con link a video di spiegazione.
+
+<br>
+<!---->
+
+- Identificazione delle fonti: manuali ufficiali del [DAW]
+
+- Diritti e aspetti legali: /////////
+- Cronoprogramma: /////////
+- Suddivisione dei task: /////////
 
 
 
 
 
-Descrivere le attività sviluppate all'interno del progetto per realizzare il prodotto.
+<!--Descrivere le attività sviluppate all'interno del progetto per realizzare il prodotto.
 > Nel farlo è utile riferirsi alle possibili attività elencate nella lezione 5, slide 4-7. 
-
+-->
 ## Gestione documentale
-
-Descrivere il *flusso di gestione documentale* definito per il progetto. Ad esempio, la raccolta delle fonti, la revisione dei contenuti, la trasformazione dei formati, la strutturazione dei contenuti, la definizione dello stile grafico.
-> Il flusso può essere descritto utilizzando BPMN, lezione 5, slide 9. In alternativa, se si preferisce restare su un formato di puro testo è possibile usare il linguaggio Mermaid, supportato da alcuni editor Markdown. 
 
 ```mermaid
 graph LR
@@ -60,14 +71,27 @@ B --> D{Rhombus}
 C --> D
 ```
 
+<!--Descrivere il *flusso di gestione documentale* definito per il progetto. Ad esempio, la raccolta delle fonti, la revisione dei contenuti, la trasformazione dei formati, la strutturazione dei contenuti, la definizione dello stile grafico.
+> Il flusso può essere descritto utilizzando BPMN, lezione 5, slide 9. In alternativa, se si preferisce restare su un formato di puro testo è possibile usare il linguaggio Mermaid, supportato da alcuni editor Markdown. -->
+
 ## Tecnologie adottate
 
+
+Conversione con PANDOC dei files MD in:
+- LaTex: 
+    - pandoc Videocorso1.md -f markdown -t latex -s -o Videocorso1.tex
+- HTML:
+    - pandoc --standalone --template Videocorso1.html Videocorso1.md
+- PDF:
+    - pandoc -s -o Videocorso1.pdf Videocorso1.md
+
+Caricati poi su GITHUB.
+
+
+
+
+
 <!-- 
-Conversione dei files MD in HTML, PDF e Latex CON PANDOC e caricati su GITHUB.
-fare una tabella di conversione con i comandi pandoc.
- -->
-
-
 > Per presentare il contributo delle diverse tecnologie addottate è possibile elencarle in una tabella. Può anche essere utili confrontare una versione ASIS del flusso di gestione, senza la tecnologia adottata, e una TOBE che include la tecnologia adottata.
 > Includere nella relazione o in appendice gli script e le configurazioni adottati, possibilmente con riferimento ad un repository documentale.  
 
@@ -76,6 +100,7 @@ fare una tabella di conversione con i comandi pandoc.
 |Markdown |`'Isn't this fun?'`            |'Isn't this fun?'            |
 |XSLT       |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |ePud         |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+ -->
 
 ## Conclusioni
 
@@ -91,3 +116,5 @@ Esempio di nota [^fn1]. Altro testo. Altra citazione[^fn2].
 
 [^fn1]: Citazione con nota.
 [^fn2]: Altra citazione.
+
+[DAW]: https://www.google.com/
