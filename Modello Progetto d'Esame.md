@@ -11,14 +11,14 @@
 
 ## Introduzione
 
-Obiettivo: Vendita di un Videocorso con in allegato documenti di approfondimento dei contenuti delle lezioni.
+Obiettivo: Vendita di un Videocorso con in allegato documentazione per approfondire i contenuti delle videolezioni.
 Verranno realizzati del files PDF/LaTex/MD nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (link a video "non in elenco" su Youtube o visibili da link).
 
 ## Obiettivi 
 
-Destinatari: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
+- Destinatari: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
 
-Originalità: Corso inteso per chi produce musica e non solo incentrato sull'uso del DAW. 
+- Originalità: Corso inteso per chi produce musica e non solo incentrato sull'uso del DAW. 
 Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 
 ## Processo di produzione
@@ -55,9 +55,6 @@ Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 - Suddivisione dei task: /////////
 
 
-
-
-
 <!--Descrivere le attività sviluppate all'interno del progetto per realizzare il prodotto.
 > Nel farlo è utile riferirsi alle possibili attività elencate nella lezione 5, slide 4-7. 
 -->
@@ -88,6 +85,12 @@ Conversione con PANDOC dei files MD in:
 Caricati poi su GITHUB.
 
 
+|          |Riduzione dei tempi di gestione  |Miglioramento della qualità dei documenti |
+|----------|-------------------------------|-----------------------------|
+|Markdown  | `Repository Github collaborativa` | `link modificabili e sezione Segnalazione/Commenti` |
+|LaTex/HTML/PDF |`conversione con pandoc + eventuali librerie` | `miglioramento dell'HTML per automazione pagina WEB` |
+|Video     |`montaggio con SW di editing video e pubblicazione in repository/Youtube` |  |
+|social    |`pubblicazione di estratti sui social` |  |
 
 
 
