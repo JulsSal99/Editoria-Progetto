@@ -1,2 +1,2 @@
 # Editoria-Progetto
- rogetto di editoria
+ Progetto di editoria
