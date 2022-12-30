@@ -11,14 +11,14 @@
 
 ## Introduzione
 
-Obiettivo: Vendita di un Videocorso con in allegato documentazione per approfondire i contenuti delle videolezioni.
-Verranno realizzati del files PDF/LaTex/MD nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (link a video "non in elenco" su Youtube o visibili da link).
+Obiettivo: Vendita di un Videocorso con in allegato __documentazione__ per approfondire i contenuti delle __videolezioni__.
+Verranno realizzati del files __PDF/LaTex/MD__ nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (lin a video "non in elenco" su Youtube o visibili da link).
 
 ## Obiettivi 
 
-- Destinatari: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
+- __Destinatari__: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
 
-- Originalità: Corso inteso per chi produce musica e non solo incentrato sull'uso del DAW. 
+- __Originalità__: Corso inteso per chi produce musica e non solo incentrato sull'uso del DAW. 
 Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 
 ## Processo di produzione
