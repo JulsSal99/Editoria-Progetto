@@ -102,17 +102,20 @@ Caricati poi su GITHUB.
 
 ## Conclusioni
 
-Discutere i risultati ottenuti, verificando se gli obiettivi siano pienamente o parzialmente raggiunti. Evidenziare gli aspetti nei quali si sono raggiunti i risultati più soddisfacenti e le limitazioni emerse (impossibilità di accesso ad alcune tecnologie o fasi del flusso di gestione documentale, limiti nella automazione di alcune passi di trasformazione dei formati o di integrazione delle sorgenti). 
+*Discutere i risultati ottenuti, verificando se gli obiettivi siano pienamente o parzialmente raggiunti. Evidenziare gli aspetti nei quali si sono raggiunti i risultati più soddisfacenti e le limitazioni emerse (impossibilità di accesso ad alcune tecnologie o fasi del flusso di gestione documentale, limiti nella automazione di alcune passi di trasformazione dei formati o di integrazione delle sorgenti). 
+*
 
 ## Bibliografia e sitografia
 
-Elencare i riferimenti bibliografici e risorse online che hanno maggiormente contribuito alla realizzazione del progetto.
+*Elencare i riferimenti bibliografici e risorse online che hanno maggiormente contribuito alla realizzazione del progetto.
+*
+[DAW]: https://www.ableton.com/
 
-> Ci possono essere diversi modi di gestire le citazioni in markdown, uno di questi è attraverso le note
+
+<!-- > Ci possono essere diversi modi di gestire le citazioni in markdown, uno di questi è attraverso le note
 
 Esempio di nota [^fn1]. Altro testo. Altra citazione[^fn2].
 
 [^fn1]: Citazione con nota.
 [^fn2]: Altra citazione.
-
-[DAW]: https://www.ableton.com/
+--
