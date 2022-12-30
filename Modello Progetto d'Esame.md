@@ -3,7 +3,7 @@
 `` Corso di Editoria Digitale`` 
 `` Anno Accademico``
 `` Giulio Salada 951327`` 
-`` Alessandro Canclini `` 
+`` Alessandro Canclini 943223`` 
 
 
 
