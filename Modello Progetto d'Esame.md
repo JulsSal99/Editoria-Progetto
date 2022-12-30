@@ -61,15 +61,7 @@ Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 -->
 ## Gestione documentale
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
-
-​	![flusso di lavoro](Flusso_di_lavoro_editoria.jpeg)
+​	![flusso di lavoro](img/Flusso_di_lavoro_editoria.jpeg)
 
 <!--Descrivere il *flusso di gestione documentale* definito per il progetto. Ad esempio, la raccolta delle fonti, la revisione dei contenuti, la trasformazione dei formati, la strutturazione dei contenuti, la definizione dello stile grafico.
 > Il flusso può essere descritto utilizzando BPMN, lezione 5, slide 9. In alternativa, se si preferisce restare su un formato di puro testo è possibile usare il linguaggio Mermaid, supportato da alcuni editor Markdown. -->
