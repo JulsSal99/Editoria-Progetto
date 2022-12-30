@@ -115,4 +115,4 @@ Esempio di nota [^fn1]. Altro testo. Altra citazione[^fn2].
 [^fn1]: Citazione con nota.
 [^fn2]: Altra citazione.
 
-[DAW]: https://www.google.com/
+[DAW]: [Ableton](https://www.ableton.com/)
