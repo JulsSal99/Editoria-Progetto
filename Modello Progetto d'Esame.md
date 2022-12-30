@@ -11,7 +11,7 @@
 
 ## Introduzione
 
-Obiettivo: Vendita di un Videocorso con in allegato __documentazione__ per approfondire i contenuti delle __videolezioni__.
+Obiettivo: Vendita di un Videocorso con in allegato ++documentazione++ per approfondire i contenuti delle ++videolezioni++.
 Verranno realizzati del files __PDF/LaTex/MD__ nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (lin a video "non in elenco" su Youtube o visibili da link).
 
 ## Obiettivi 
