@@ -76,6 +76,10 @@ Conversione con PANDOC dei files MD in:
     - pandoc --standalone --template Videocorso1.html Videocorso1.md
 - PDF:
     - pandoc -s -o Videocorso1.pdf Videocorso1.md
+- DOCX:
+    - pandoc -o Videocorso1.docx -f markdown -t docx Videocorso1.md
+
+
 
 Caricati poi su GITHUB.
 
