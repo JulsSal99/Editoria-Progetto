@@ -1,1 +1,1 @@
-../Modello&#32;Progetto&#32;d'Esame.md
+./Modello&#32;Progetto&#32;d'Esame.md
