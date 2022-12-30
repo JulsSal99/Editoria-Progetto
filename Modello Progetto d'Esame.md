@@ -11,8 +11,8 @@
 
 ## Introduzione
 
-Obiettivo: Vendita di un Videocorso con in allegato __documentazione__ per approfondire i contenuti delle __videolezioni+__.
-Verranno realizzati del files __PDF/LaTex/MD__ nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (lin a video "non in elenco" su Youtube o visibili da link).
+Obiettivo: Vendita di un Videocorso con in allegato _documentazione_ per approfondire i contenuti delle _videolezioni_.
+Verranno realizzati del files _PDF/LaTex/MD_ nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (lin a video "non in elenco" su Youtube o visibili da link).
 
 ## Obiettivi 
 
@@ -25,38 +25,38 @@ Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 <br>
 <!---->
 
-- Studio e analisi del tema: produzione di un manuale per la produzione musicale alla fine della preparazione alla pubblicazione di tracce sui servizi di streaming.
+- __Studio e analisi del tema__: produzione di un manuale per la produzione musicale alla fine della preparazione alla pubblicazione di tracce sui servizi di streaming.
 
 <br>
 <!---->
 
-- Studio competitor: molti canali Youtube amatoriali, ma le informaioni che forniscono sono spesso frammentarie, dispersive e non strutturate come un vero corso.
-- Definizione del target: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
-- Studio e analisi del tema: ricerche sui manuali reali dei [DAW], ricerche sugli effetti audio e plugin più usati interni e esterni al [DAW].
+- __Studio competitor__: canali Youtube amatoriali, ma con informazioni che forniscono sono spesso frammentarie, dispersive e non strutturate come un vero corso.
+- __Definizione del target__: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
+- __Studio e analisi del tema__: ricerche sui _manuali ufficiali_ dei [DAW], ricerche sugli _effetti audio_ e _plugin_ più utili interni e esterni al [DAW].
 - Definizione dei canali: sito web specifico, pubblicizzazione tramite dei shorts sui social (TikTok, Instagram, Facebook), eventuali lezioni in diretta su Teams/Zoom.
-- licenze di distribuzione: eventuale certificazione ufficiale.
-- Originalità e obbiettivi comunicativi: Corso inteso per chi produce musica e non solo incentrato sull'uso del [DAW]. 
+- __licenze di distribuzione__: eventuale _certificazione_ ufficiale.
+- __Originalità e obbiettivi comunicativi__: Corso inteso per chi produce musica e non solo incentrato sull'uso del [DAW]. 
 Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
-- Modello di business: vendita del pacchetto del corso.
+- __Modello di business__: vendita del pacchetto del corso.
 
 <br>
 <!---->
 
-- Definizione dei formati: HTML/LaTex/MD/PDF
-- Definizione dell’identità visuale: testo scritto con link a video di spiegazione.
+- __Definizione dei formati__: HTML/LaTex/MD/PDF
+- __Definizione dell’identità visuale__: testo scritto con link a video.
 
 <br>
 <!---->
 
-- Identificazione delle fonti: manuali ufficiali del [DAW]
-
+- Identificazione delle fonti: __manuali ufficiali__ del [DAW], riviste specializzate, etc.
+<!--
 - Diritti e aspetti legali: /////////
 - Cronoprogramma: /////////
 - Suddivisione dei task: /////////
+-->
 
-
-
-<!--Descrivere le attività sviluppate all'interno del progetto per realizzare il prodotto.
+<!--
+Descrivere le attività sviluppate all'interno del progetto per realizzare il prodotto.
 > Nel farlo è utile riferirsi alle possibili attività elencate nella lezione 5, slide 4-7. 
 -->
 ## Gestione documentale
