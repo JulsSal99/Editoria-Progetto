@@ -12,6 +12,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="">
         <style>
+            h1 {
+                font-size: 50px;
+                margin-left: 10%;
+                color: aliceblue;
+            }
             body {
                 background-image: url('img/ableton_background.jpg');
                 background-repeat: no-repeat;
@@ -19,21 +24,29 @@
                 background-size: cover;
             }
             .myButton {
-              border: 5px solid #20750D; 
-              border-radius: 12px;
-              background: #21BC27;
-              color: #CDFFCA;
+              border: 10px solid #00d0ff84; 
+              border-radius: 24px;
+              background: #0091ff;
+              color: #323900;
               display:inline-block;
-              padding:20px;
+              padding:30px;
               transition:1s;
               margin: 5%;
+              margin-top: 2%;
+              font-size: larger;
+              text-align:center;
+              text-decoration:none;
             }
             .myButton:hover {
-              border: 5px groove blue;
-              border-radius:0px;
+              border: 10px groove rgb(0, 255, 225);
+              border-radius:24px;
+              background:rgb(0, 213, 255);
               color:black;
-              background:yellow;
-              transition:0.5s
+              padding:50px;
+              transition:0.5s;
+              margin: 3%;
+              margin-top: 0%;
+              font-size: xx-large;
             }
         </style>
     </head>
@@ -42,8 +55,10 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
+        <h1>Scegli il tuo formato:</h1>
+        <a class="myButton" href="https://julssal99.github.io/Editoria-Progetto/Modello%20Progetto%20d'Esame.md">online</a>
         <a class="myButton" href="https://julssal99.github.io/Editoria-Progetto/Modello%20Progetto%20d'Esame.md">Markdown</a>
-        
+        <a class="myButton" href="https://julssal99.github.io/Editoria-Progetto/Modello%20Progetto%20d'Esame.md">EPUB</a>
         <script src="" async defer></script>
     </body>
 </html>
