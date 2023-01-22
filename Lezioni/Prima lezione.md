@@ -40,4 +40,5 @@ Ogni DAW si struttura in singoli canali Mixer in cui è possibile fare processin
 [Digital_Audio_Workstation]: https://it.wikipedia.org/wiki/Workstation_audio_digitale
 [Ableton_Live_11]: https://www.ableton.com/en/live
 [Ableton]: https://www.ableton.com/
+[Manuale_Ableton]: https://help.ableton.com/hc/en-us/articles/206769450-Live-Manual
 --
