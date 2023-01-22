@@ -1,41 +1,3 @@
-.elenco {
-    border: 5px solid rgba(0, 156, 191, 0.518); 
-    border-radius: 7px;
-    background:rgba(0, 255, 247, 0.8);
-    color: #212600;
-    padding: 10px;
-    margin: 50px;
-    opacity: 1;
-}
-.elenco > ol > li {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-size:x-large;
-}
-.elenco > ol > li > a {
-    text-decoration: none;
-    color: black;
-}
-.elenco > ol > li > a:hover {
-    text-decoration: underline;
-    color: rgb(221, 0, 0);
-    font-weight: bold;
-    transition: 0.4s;
-}
-.elenco > ol > li > a:active {
-    text-decoration: underline;
-    color: rgb(144, 0, 0);
-    font-weight: bold;
-    transition: 0.2s;
-}
-.elenco > ol > li > a:visited {
-    color: rgb(190, 168, 0);
-}
-h1 {
-    font-size: 50px;
-    margin-left: 10%;
-    color: aliceblue;
-}
 body {
     background-image: url('img/ableton_background-large.jpg');
     background-repeat: no-repeat;
@@ -63,6 +25,18 @@ body {
         background-image: url('img/ableton_background-XXsmall.jpg');
     }
 }
+
+h1 {
+    font-size: 50px;
+    margin-left: 10%;
+    color: aliceblue;
+}
+@media only screen and (max-width: 550px){
+    h1 {
+        font-size: 8.5vw;
+    }
+}
+
 .myButton {
   border: 10px solid rgba(0, 156, 191, 0.518); 
   border-radius: 24px;
@@ -101,16 +75,50 @@ body {
         margin: 3%;
     }
     .myButton:hover{
-        width: 30%;
+        width: 20%;
     }
 }
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 1000px){
     .myButton {
         width: 200px;
         margin: 3%;
-        margin-right: 30%;
+        margin-right: 40%;
     }
     .myButton:hover{
         width: 200px;
     }
+}
+
+.elenco {
+    border: 5px solid rgba(0, 156, 191, 0.518); 
+    border-radius: 7px;
+    background:rgba(0, 255, 247, 0.8);
+    color: #212600;
+    padding: 10px;
+    margin: 50px;
+    opacity: 1;
+}
+.elenco > ol > li {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size:x-large;
+}
+.elenco > ol > li > a {
+    text-decoration: none;
+    color: black;
+}
+.elenco > ol > li > a:hover {
+    text-decoration: underline;
+    color: rgb(221, 0, 0);
+    font-weight: bold;
+    transition: 0.4s;
+}
+.elenco > ol > li > a:active {
+    text-decoration: underline;
+    color: rgb(144, 0, 0);
+    font-weight: bold;
+    transition: 0.2s;
+}
+.elenco > ol > li > a:visited {
+    color: rgb(190, 168, 0);
 }
