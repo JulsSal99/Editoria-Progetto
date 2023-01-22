@@ -12,6 +12,20 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="">
         <style>
+            .elenco {
+                background-color:rgba(112, 231, 255, 0.707);
+                border-radius: 7px;
+                border: 5px solid rgba(44, 88, 97, 0.357);
+                color: #212600;
+                padding: 10px;
+                margin: 50px;
+                opacity: 1;
+            }
+            .elenco > ol > li {
+                margin-bottom: 5px;
+                margin-top: 5px;
+                font-size:x-large;
+            }
             h1 {
                 font-size: 50px;
                 margin-left: 10%;
@@ -56,18 +70,20 @@
         <![endif]-->
 
         <h1>Scegli la tua lezione:</h1>
-        <a href="https://julssal99.github.io/Editoria-Progetto/Lezioni/Prima%20Lezione.md" download>
-            Prima lezione
-            <!-- <img src="/images/myw3schoolsimage.jpg" alt="W3Schools"> -->
-        </a>
-        
-        <a href="" download>
-            Seconda lezione
-        </a>
-
-        <a href="" download>
-            Terza lezione
-        </a>
+        <div class="elenco">
+            <ol>
+                <li>
+                    <a href="https://julssal99.github.io/Editoria-Progetto/Lezioni/Prima%20lezione.md" download>Prima lezione</a>
+                </li>
+                <li>
+                <!-- <img src="/images/myw3schoolsimage.jpg" alt="W3Schools"> -->
+                    <a href="" download>Seconda lezione</a>
+                </li>
+                <li>
+                    <a href="" download>Terza lezione</a>
+                </li>
+            </ol>
+        </div>
         <script src="" async defer></script>
     </body>
 </html>
