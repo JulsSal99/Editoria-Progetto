@@ -36,11 +36,29 @@ h1 {
     margin-left: 10%;
     color: aliceblue;
 }
-body {
-    background-image: url('img/ableton_background.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;  
-    background-size: cover;
+@media only screen and (min-width: 801px){
+    body {
+        background-image: url('img/ableton_background-large.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover;
+    }
+}
+@media only screen and (max-width: 800px) and (min-width: 601px){
+    body {
+        background-image: url('img/ableton_background-mid.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover;
+    }
+}
+@media only screen and (max-width: 600px){
+    body {
+        background-image: url('img/ableton_background-small.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover;
+    }
 }
 .myButton {
   border: 10px solid #00d0ff84; 
