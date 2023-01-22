@@ -1,0 +1,69 @@
+.elenco {
+    background-color:rgba(112, 231, 255, 0.707);
+    border-radius: 7px;
+    border: 5px solid rgba(44, 88, 97, 0.357);
+    color: #212600;
+    padding: 10px;
+    margin: 50px;
+    opacity: 1;
+}
+.elenco > ol > li {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size:x-large;
+}
+.elenco > ol > li > a {
+    text-decoration: none;
+    color: black;
+}
+.elenco > ol > li > a:hover {
+    text-decoration: underline;
+    color: rgb(221, 0, 0);
+    font-weight: bold;
+    transition: 0.4s;
+}
+.elenco > ol > li > a:active {
+    text-decoration: underline;
+    color: rgb(144, 0, 0);
+    font-weight: bold;
+    transition: 0.2s;
+}
+.elenco > ol > li > a:visited {
+    color: rgb(190, 168, 0);
+}
+h1 {
+    font-size: 50px;
+    margin-left: 10%;
+    color: aliceblue;
+}
+body {
+    background-image: url('img/ableton_background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+.myButton {
+  border: 10px solid #00d0ff84; 
+  border-radius: 24px;
+  background: #0091ff;
+  color: #323900;
+  display:inline-block;
+  padding:30px;
+  transition:1s;
+  margin: 5%;
+  margin-top: 2%;
+  font-size: larger;
+  text-align:center;
+  text-decoration:none;
+}
+.myButton:hover {
+  border: 10px groove rgb(0, 255, 225);
+  border-radius:24px;
+  background:rgb(0, 213, 255);
+  color:black;
+  padding:50px;
+  transition:0.5s;
+  margin: 3%;
+  margin-top: 0%;
+  font-size: xx-large;
+}
