@@ -1,6 +1,4 @@
 body {
-    overflow-y: hidden;
-    height: 100%;
     background-image: url('img/ableton_background-large.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;  
