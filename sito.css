@@ -64,7 +64,8 @@ h1 {
   padding:50px;
   transition:0.5s;
   margin: 3%;
-  margin-top: 0%;
+  margin-top: 1%;
+  margin-bottom: 1%;
   font-size: xx-large;
   width: 9%;
 }
@@ -102,22 +103,28 @@ h1 {
     margin-bottom: 5px;
     margin-top: 5px;
     font-size:x-large;
+    transition: 0.4s;
 }
 .elenco > ol > li > a {
     text-decoration: none;
     color: black;
+    transition: 0.4s;
 }
 .elenco > ol > li > a:hover {
     text-decoration: underline;
     color: rgb(221, 0, 0);
     font-weight: bold;
+    font-size:xx-large;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
     transition: 0.4s;
 }
-.elenco > ol > li > a:active {
+.elenco > ol > li > a:active, .elenco > ol > li > a:visited:active  {
     text-decoration: underline;
     color: rgb(144, 0, 0);
     font-weight: bold;
-    transition: 0.2s;
+    display: inline-block;
 }
 .elenco > ol > li > a:visited {
     color: rgb(190, 168, 0);
