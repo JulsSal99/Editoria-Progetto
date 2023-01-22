@@ -39,7 +39,9 @@ Un Live Set è costituito da due ambienti:
 - Sessione: una tavolozza vuota orientata alla composizione e riproduzione "in tempo reale" per le clip. 
 Ogni clip di sessione ha il proprio pulsante di riproduzione che consente di avviare le clip assieme o separate in qualsiasi momento in qualsiasi ordine.
 
-I due ambienti possono essere intercambiabili premendo il pulsante di registrazione durante la riproduzione delle clip. La riproduzione dell'arrangiamento non riprende finché non viene premuto il tasto rosso in alto nell'ambiente arrangiamento "Torna alla disposizione".
+I due ambienti possono essere intercambiabili: 
+- premendo il pulsante di registrazione durante la riproduzione delle clip è possibile registrare il materiale presente nella Sessione. La riproduzione dell'Arrangiamento non riprende finché non viene premuto il tasto rosso in alto nell'ambiente Arrangiamento "_Torna all'arrangiamento_".
+- cliccando sulla clip nell'Arrangiamento è possibile importarla nella Sessione cliccando su "_Consolida tempo in una nuova scena_". 
 
 
 
