@@ -1,7 +1,7 @@
 .elenco {
-    background-color:rgba(112, 231, 255, 0.707);
+    border: 5px solid rgba(0, 156, 191, 0.518); 
     border-radius: 7px;
-    border: 5px solid rgba(44, 88, 97, 0.357);
+    background:rgba(0, 255, 247, 0.8);
     color: #212600;
     padding: 10px;
     margin: 50px;
@@ -61,27 +61,34 @@ h1 {
     }
 }
 .myButton {
-  border: 10px solid #00d0ff84; 
+  border: 10px solid rgba(0, 156, 191, 0.518); 
   border-radius: 24px;
-  background: #0091ff;
+  background: rgba(0, 255, 247, 0.8);
   color: #323900;
   display:inline-block;
   padding:30px;
   transition:1s;
   margin: 5%;
   margin-top: 2%;
-  font-size: larger;
+  font-size: x-large;
   text-align:center;
   text-decoration:none;
+  width: 7%;
+  text-shadow: 0.5px 0 #6b9795, -0.5px 0 #6b9795, 
+  0 0.5px #6b9795, 0 -0.5px #6b9795, 
+  0.2px 0.2px #6b9795, -0.2px -0.2px #6b9795, 
+  0.2px -0.2px #6b9795, -0.2px 0.2px #6b9795;
 }
 .myButton:hover {
-  border: 10px groove rgb(0, 255, 225);
+  border: 10px groove rgb(86, 255, 235);
   border-radius:24px;
-  background:rgb(0, 213, 255);
+  background:rgb(95, 228, 255);
   color:black;
   padding:50px;
   transition:0.5s;
   margin: 3%;
   margin-top: 0%;
   font-size: xx-large;
+  width: 9%;
+
 }
