@@ -30,9 +30,16 @@ Ogni DAW lavora secondo il seguente schema di processing audio attraverso il qua
 Ogni DAW si struttura in singoli canali Mixer in cui è possibile fare processing audio singolarmente:
 ![mixer audio](img/1mixerDAW.jpeg)
 
-## Qual è il layout di [Ableton_Live_11]?
+## Qual è il layout di [Ableton_Live_11]?  (_Video a corredo_)
 
+Gli elementi base di Live sono le clip; una clip può essere: un file audio o un pattern midi, che andranno poi a costituire una canzone completa. 
 
+Un Live Set è costituito da due ambienti: 
+- Arrangiamento: una zona di lavoro su cui è possibile piazzare le clip lungo una linea temporale musicale. 
+- Sessione: una tavolozza vuota orientata alla composizione e riproduzione "in tempo reale" per le clip. 
+Ogni clip di sessione ha il proprio pulsante di riproduzione che consente di avviare le clip assieme o separate in qualsiasi momento in qualsiasi ordine.
+
+I due ambienti possono essere intercambiabili premendo il pulsante di registrazione durante la riproduzione delle clip. La riproduzione dell'arrangiamento non riprende finché non viene premuto il tasto rosso in alto nell'ambiente arrangiamento "Torna alla disposizione".
 
 
 
