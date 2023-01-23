@@ -34,7 +34,14 @@ Ogni DAW si struttura in singoli canali Mixer in cui è possibile fare processin
 
 Gli elementi base di Live sono le clip; una clip può essere: un file audio o un pattern midi, che andranno poi a costituire una canzone completa. 
 
-Un Live Set è costituito da due ambienti: 
+Una finestra si divide a livello visivo in più parti:
+- i menù superiori di impostazioni del DAW e del progetto
+- la sezione tracce e mixer
+- il _Browser_ (a sinistra)
+- la vista _Dettaglio_
+- la finestra _Info_
+
+La parte più importante di un un progetto, o _Live Set_, è la sezione centrale contenente le tracce del progetto, che si divide in: 
 - Arrangiamento: una zona di lavoro su cui è possibile piazzare le clip lungo una linea temporale musicale. 
 - Sessione: una tavolozza vuota orientata alla composizione e riproduzione "in tempo reale" per le clip. 
 Ogni clip di sessione ha il proprio pulsante di riproduzione che consente di avviare le clip assieme o separate in qualsiasi momento in qualsiasi ordine.
@@ -42,6 +49,7 @@ Ogni clip di sessione ha il proprio pulsante di riproduzione che consente di avv
 I due ambienti possono essere intercambiabili: 
 - premendo il pulsante di registrazione durante la riproduzione delle clip è possibile registrare il materiale presente nella Sessione. La riproduzione dell'Arrangiamento non riprende finché non viene premuto il tasto rosso in alto nell'ambiente Arrangiamento "_Torna all'arrangiamento_".
 - cliccando sulla clip nell'Arrangiamento è possibile importarla nella Sessione cliccando su "_Consolida tempo in una nuova scena_". 
+
 
 
 ![video](video/MyVideo.mp4)
