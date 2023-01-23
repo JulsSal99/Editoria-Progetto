@@ -90,6 +90,15 @@ h1 {
     }
 }
 
+.divButton{
+    display: contents;
+}
+@media only screen and (max-width: 1000px){
+    .divButton{
+        display: block;
+    }
+}
+
 .elenco {
     border: 5px solid rgba(0, 208, 255, 0.243); 
     border-radius: 7px;
