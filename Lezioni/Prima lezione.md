@@ -53,7 +53,7 @@ I due ambienti possono essere intercambiabili:
 
 
 <video width="320" height="240" controls>
-  <source src="video/MyVideo.mp4" type="video/mp4">
+  <source src="video/MyVideo.mov" type="video/mov">
 </video>
 
 
