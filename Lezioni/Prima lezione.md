@@ -7,7 +7,8 @@
 
 
 <img src="../img/Cicon.png" alt="Course logo" width="200"/>
-# Videocorso - Come produrre Musica in [Ableton_Live_11]. Corso medio-base.
+
+# Videocorso - Come produrre Musica in [Ableton_Live_11].
 
 ## Introduzione al corso
 
