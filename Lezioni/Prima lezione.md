@@ -53,9 +53,12 @@ I due ambienti possono essere intercambiabili:
 
 
 <video width="320" height="240" controls>
-  <source src="video/MyVideo.mov" type="video/mov">
+  <source src="https://user-images.githubusercontent.com/116346078/214081401-a4fe6133-c067-4ee6-b012-a18859cdcb23.mov" type="video/mov">
 </video>
-<video src='video/MyVideo.mov' width=180></video>
+
+
+
+
 
 
 [Digital_Audio_Workstation]: https://it.wikipedia.org/wiki/Workstation_audio_digitale
