@@ -138,3 +138,14 @@ h1 {
 .elenco > ol > li > a:visited {
     color: rgb(190, 168, 0);
 }
+
+footer {
+    position: absolute; 
+    left: -.25in;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(55, 114, 145);
+    color: white;
+}
