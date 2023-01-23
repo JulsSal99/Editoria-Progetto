@@ -1,6 +1,6 @@
 # Editoria-Progetto
 
-![Modello progetto](Modello&#32;Progetto&#32;d'Esame.md)
+[Modello progetto](/Modello%20Progetto%20d'Esame.md)
 
 <br>
 
