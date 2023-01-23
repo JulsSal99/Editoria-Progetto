@@ -51,12 +51,7 @@ I due ambienti possono essere intercambiabili:
 - premendo il pulsante di registrazione durante la riproduzione delle clip è possibile registrare il materiale presente nella Sessione. La riproduzione dell'Arrangiamento non riprende finché non viene premuto il tasto rosso in alto nell'ambiente Arrangiamento "_Torna all'arrangiamento_".
 - cliccando sulla clip nell'Arrangiamento è possibile importarla nella Sessione cliccando su "_Consolida tempo in una nuova scena_". 
 
-
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/116346078/214081401-a4fe6133-c067-4ee6-b012-a18859cdcb23.mov" type="video/mov">
-</video>
-
-
+https://user-images.githubusercontent.com/116346078/214081401-a4fe6133-c067-4ee6-b012-a18859cdcb23.mov
 
 
 
