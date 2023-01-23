@@ -6,7 +6,7 @@
 `` Alessandro Canclini 943223`` 
 
 
-
+![Course logo](../img/Cicon.png 'Course logo')
 # Videocorso - Come produrre Musica in [Ableton_Live_11]. Corso medio-base.
 
 ## Introduzione al corso
