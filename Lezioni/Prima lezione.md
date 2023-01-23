@@ -52,8 +52,9 @@ I due ambienti possono essere intercambiabili:
 - cliccando sulla clip nell'Arrangiamento è possibile importarla nella Sessione cliccando su "_Consolida tempo in una nuova scena_". 
 
 
-
-![video](video/MyVideo.mp4)
+<video width="320" height="240" controls>
+  <source src="video/MyVideo.mp4" type="video/mp4">
+</video>
 
 
 [Digital_Audio_Workstation]: https://it.wikipedia.org/wiki/Workstation_audio_digitale
