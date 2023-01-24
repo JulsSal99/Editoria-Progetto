@@ -42,7 +42,29 @@ Una finestra si divide a livello visivo in più parti:
 - la vista _Dettaglio_
 - la finestra _Info_
 
-La parte più importante di un un progetto, o _Live Set_, è la sezione centrale contenente le tracce del progetto, che si divide in: 
+<!--
+la prima barra superiore bianca di impostazione racchiude una serie di impostazioni per: 
+- File: aprire/chiudere progetti, salvare lo stato di un progetto, esplorarne i files, esportarne il contenuto
+- Modifica: modificare il contenuto selezionato del progetto
+- Crea: inserire nuovi elementi nel progetto
+- visualizza: modificare gli elementi visibili nell'interfaccia del progetto
+- opzioni: modificare le impostazioni del progetto
+  - campo preferenze 
+- aiuto: visualizzare informazioni sul Daw o consultarne il manuale operativo.
+
+La finestra info permette, puntando col mouse so un oggetto di vederne una breve descrizione. Questa stessa descrizione, per alcuni oggetti come dispositivi, è modificabile.
+-->
+
+La parte più importante di un un progetto, o _Live Set_, è la sezione centrale contenente le tracce del progetto. 
+
+Esistono 3 tipi di tracce: 
+ - tracce midi
+ - tracce audio
+ - tracce di ritorno
+
+A queste si aggiunge inoltre la traccia master, attraverso cui passano tutto l'audio delle precedenti tipologie di tracce prima di risultare pronte per l'esportazione.
+
+La sezione centrale si divide in: 
 - Arrangiamento: una zona di lavoro su cui è possibile piazzare le clip lungo una linea temporale musicale. 
 - Sessione: una tavolozza vuota orientata alla composizione e riproduzione "in tempo reale" per le clip. 
 Ogni clip di sessione ha il proprio pulsante di riproduzione che consente di avviare le clip assieme o separate in qualsiasi momento in qualsiasi ordine.
@@ -50,6 +72,7 @@ Ogni clip di sessione ha il proprio pulsante di riproduzione che consente di avv
 I due ambienti possono essere intercambiabili: 
 - premendo il pulsante di registrazione durante la riproduzione delle clip è possibile registrare il materiale presente nella Sessione. La riproduzione dell'Arrangiamento non riprende finché non viene premuto il tasto rosso in alto nell'ambiente Arrangiamento "_Torna all'arrangiamento_".
 - cliccando sulla clip nell'Arrangiamento è possibile importarla nella Sessione cliccando su "_Consolida tempo in una nuova scena_". 
+
 <!--
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](/Lezioni/video/MyVideo.mov)
 
