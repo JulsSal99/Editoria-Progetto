@@ -80,7 +80,7 @@ I due ambienti possono essere intercambiabili:
 -->
 
 <video width="1280" height="720" controls>
-  <source src="Lezioni/video/MyVideo.mov" type="video/mov">
+  <source src="video/Video1.mp4" type="video/mp4">
   Your reader does not support the video tag.
 </video>
 
