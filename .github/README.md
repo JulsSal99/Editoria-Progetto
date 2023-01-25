@@ -4,4 +4,4 @@
 
 <br>
 
-[Progetto](https://julssal99.github.io/Editoria-Progetto/)
+[Sito Progetto](https://julssal99.github.io/Editoria-Progetto/)
