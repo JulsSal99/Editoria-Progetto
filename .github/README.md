@@ -6,7 +6,9 @@
 
 [Sito Progetto](https://julssal99.github.io/Editoria-Progetto/)
 
-
-I files MD delle lezioni sono nella cartella Lezioni/L_MD-videoimg
-I files HTML delle lezioni sono nella cartella Lezioni/L_HTML-EPUB/L_HTML.html
-I files HTML delle lezioni sono nella cartella Lezioni/L_HTML-EPUB/L_ePub.epub
+<br>
+I files MD delle lezioni sono nella cartella Lezioni/L_MD-videoimg/
+<br>
+I files HTML delle lezioni sono nella cartella Lezioni/L_HTML-EPUB/
+<br>
+Il file EPUB delle lezioni è nella cartella Lezioni/L_HTML-EPUB/L_ePub.epub
