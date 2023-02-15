@@ -13,6 +13,39 @@
         <link rel="icon" href="img/favicon.ico" type="image/x-icon">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="sito.css">
+        <style>
+            body {
+                -webkit-animation: fadeleft 2s; /* Safari, Chrome and Opera > 12.1 */
+                -moz-animation: fadeleft 2s; /* Firefox < 16 */
+                    -ms-animation: fadeleft 2s; /* Internet Explorer */
+                    -o-animation: fadeleft 2s; /* Opera < 12.1 */
+                        animation: fadeleft 2s;
+            }
+            @keyframes fadeleft {
+                from { padding-left: 10%; }
+                to   { padding-left: 0; }
+            }
+            /* Firefox < 16 */
+            @-moz-keyframes fadeleft {
+                from { padding-left: 10%; }
+                to   { padding-left: 0; }
+            }
+            /* Safari, Chrome and Opera > 12.1 */
+            @-webkit-keyframes fadeleft {
+                from { padding-left: 10%; }
+                to   { padding-left: 0; }
+            }
+            /* Internet Explorer */
+            @-ms-keyframes fadeleft {
+                from { padding-left: 10%; }
+                to   { padding-left: 0; }
+            }
+            /* Opera < 12.1 */
+            @-o-keyframes fadeleft {
+                from { padding-left: 10%; }
+                to   { padding-left: 0; }
+            }
+        </style>
     </head>
     <body>
         <!--[if lt IE 7]>
