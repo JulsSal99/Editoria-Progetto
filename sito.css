@@ -157,6 +157,9 @@ h1 {
 .elenco > ol > li > a:visited {
     color: rgb(190, 168, 0);
 }
+.unavaible {
+    text-decoration-line: line-through; 
+}
 
 footer {
     position: fixed; 
