@@ -94,9 +94,19 @@ navbar li a {
     padding: 12px 26px;
     text-decoration: none;
     font-size: 25px;
+    transition:.2s;
 }
 navbar li a:hover:not(.active) {
-    background-color: rgba(41, 87, 255, 0.878);
+    background-color: rgba(40, 50, 183, 0.711);
+}
+navbar li a:hover {
+    color: rgba(130, 224, 255, 0.504);
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: -14px;
+    margin-bottom: -15px;
+    margin-left: -7px;
+    margin-right: -7px;
 }
 navbar .active {
     background-color: #00ddffec;
