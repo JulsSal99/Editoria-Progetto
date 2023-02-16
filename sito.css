@@ -74,6 +74,34 @@ img.background {
 /* ----------------- SITE ---------------- */
 /* --------------------------------------- */
 /* --------------------------------------- */
+navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(99, 185, 255, 0.208);
+    border: 4px outset rgba(23, 43, 59, 0.386);
+    border-radius: 8px;
+} 
+navbar li {
+    float: left;
+    background-color: rgba(99, 185, 255, 0.446);
+}  
+navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 26px;
+    text-decoration: none;
+    font-size: 25px;
+}
+navbar li a:hover:not(.active) {
+    background-color: rgba(41, 87, 255, 0.878);
+}
+navbar .active {
+    background-color: #00ddffec;
+}
+
 p, h1, h2, ul {
     margin-left: 8%;
     margin-right: 8%;
