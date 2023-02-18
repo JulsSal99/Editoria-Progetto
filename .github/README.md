@@ -12,10 +12,12 @@ Il modello di progettazione e realizzazione del corso è il files seguente:
 [Modello progetto](/Modello%20Progetto%20d'Esame.md)
 
 La repository è organizzata nel seguente modo:
+Cartelle:
  - Lezioni
    - L#_HTML-EPUB -> Files EPUB e HTML (i files video sono nella cartella L#_MD-videoimg)
    - L#_MD-videoimg -> Files Markdown
 <br>
+Files:
  - img
  - 'EPUB.html' -> pagina delle lezioni scaricabili in formato EPUB
  - 'Markdown.html' -> pagina delle lezioni scaricabili in formato MARKDOWN
@@ -23,3 +25,4 @@ La repository è organizzata nel seguente modo:
  - 'Online.html' -> pagina delle lezioni online NO DOWNLOAD
  - 'index.html' -> pagina principale del sito, accessibile anche col link soprastante 
  - 'sito.css' -> css di index.html, online.html, markdown.html, epub.html
+<br>
