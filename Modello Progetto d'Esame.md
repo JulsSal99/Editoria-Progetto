@@ -129,7 +129,7 @@ Schema ASIS:
 Schema TOBE:
 |          |Riduzione dei tempi di gestione  |Miglioramento della qualità dei documenti |
 |----------|-------------------------------|-----------------------------|
-| sezione commenti | Pagina forum automatizzata con collegamento a un database | aggiunta di domande specifiche sulla qualità dei materiali |
+| sezione commenti | `Pagina forum automatizzata con collegamento a un database` | `aggiunta di domande specifiche sulla qualità dei materiali` |
 |altri formati |`conversione con pandoc + eventuali librerie` | `feedback dagli utenti su possibili miglioramenti o necessità di altri formati` |
 
 <!-- 
