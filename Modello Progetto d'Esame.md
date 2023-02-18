@@ -149,7 +149,14 @@ Purtroppo PDF e DOC non sembra permettano l'integrazione di video al loro intern
 
 ## Conclusioni
 
+L'accessibilità delle lezioni risulta essere molto alta ed intuitiva, sebbene debba essere confermata la piattaforma di hosting (Github) in relazione alla mole di materiale caricabile e allo spazio disponibile; nello specifico in futuro potrebbe essere valutato l'hosting dei files video per esempio su Youtube o su un server privato.
+La realizzazione della prima lezione risulta essere soddisfacente con gli obiettivi prefissati soprattutto per i tempi di gestione.
+Pandoc risulta essere uno strumento necessario e veloce soprattutto per la conversione in formati diversi al fine di garantire una più ampia accessibilità del materiale.
+Un problema si riscontra però con il rilascio delle lezioni in formato Markdown: purtroppo Github non permette di scaricare una cartella intera zippata, ma solo i files singoli, se non tramite repository esterne come "https://downgit.github.io".
+
+<!--
 _Discutere i risultati ottenuti, verificando se gli obiettivi siano pienamente o parzialmente raggiunti. Evidenziare gli aspetti nei quali si sono raggiunti i risultati più soddisfacenti e le limitazioni emerse (impossibilità di accesso ad alcune tecnologie o fasi del flusso di gestione documentale, limiti nella automazione di alcune passi di trasformazione dei formati o di integrazione delle sorgenti)._
+-->
 
 ## Bibliografia e sitografia
 
