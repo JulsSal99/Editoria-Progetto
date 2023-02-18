@@ -5,7 +5,7 @@ Il corso è accessibile tramite il link sottostante hostato su Github Pages:
 
 [SITO WEB Progetto](https://julssal99.github.io/Editoria-Progetto/)
 
-(ps. nel footer del sito è comunque possibile tornare alla repository)
+<span style="font-size: 12px;"> (ps. nel footer del sito è comunque possibile tornare alla repository) </span>
 
 <br>
 
