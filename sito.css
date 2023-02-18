@@ -268,7 +268,7 @@ a > p {
     margin-top: auto;
     margin-bottom: auto;
     margin-right: auto;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: normal;
     transition: .5s;
 }
@@ -287,27 +287,27 @@ a > p {
 
 @keyframes fadeblock {
     from { font-size: 1px; }
-    to   { font-size: 20px; }
+    to   { font-size: 16px; }
 }
 /* Firefox < 16 */
 @-moz-keyframes fadeblock {
     from { font-size: 1px; }
-    to   { font-size: 20px; }
+    to   { font-size: 16px; }
 }
 /* Safari, Chrome and Opera > 12.1 */
 @-webkit-keyframes fadeblock {
     from { font-size: 1px; }
-    to   { font-size: 20px; }
+    to   { font-size: 16px; }
 }
 /* Internet Explorer */
 @-ms-keyframes fadeblock {
     from { font-size: 1px; }
-    to   { font-size: 20px; }
+    to   { font-size: 16px; }
 }
 /* Opera < 12.1 */
 @-o-keyframes fadeblock {
     from { font-size: 1px; }
-    to   { font-size: 20px; }
+    to   { font-size: 16px; }
 }
 
 footer {
