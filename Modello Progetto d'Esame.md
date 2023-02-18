@@ -12,7 +12,7 @@
 ## Introduzione
 
 Obiettivo: Vendita di un Videocorso con in allegato _documentazione_ per approfondire i contenuti delle _videolezioni_.
-Verranno realizzati del files _PDF/LaTex/MD_ nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (lin a video "non in elenco" su Youtube o visibili da link).
+Verranno realizzati del files _HTML/EPUB/MD_ nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (lin a video "non in elenco" su Youtube o visibili da link).
 
 ## Obiettivi 
 
@@ -42,7 +42,7 @@ Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 <br>
 <!---->
 
-- __Definizione dei formati__: HTML/LaTex/MD/PDF
+- __Definizione dei formati__: HTML/EPUB/MD
 - __Definizione dell’identità visuale__: testo scritto con link a video.
 
 <br>
@@ -59,6 +59,41 @@ Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 Descrivere le attività sviluppate all'interno del progetto per realizzare il prodotto.
 > Nel farlo è utile riferirsi alle possibili attività elencate nella lezione 5, slide 4-7. 
 -->
+
+Il testo tratterà i seguenti punti: 
+
+- Introduzione a Ableton: 
+  - cos'è, 
+  - a cosa serve, 
+  - come funziona, 
+  - quali sono le sue caratteristiche principali.
+- Installazione e configurazione di Ableton: 
+  - come attivare la licenza, 
+  - come impostare le preferenze, 
+  - come collegare le periferiche audio e MIDI.
+- Interfaccia e navigazione di Ableton: 
+  - come usare le due viste (Arrangement e Session), 
+  - come gestire i browser, 
+  - i dispositivi, 
+  - le clip audio e midi, 
+  - le tracce, 
+  - i mixer, 
+  - i dati MIDI in ingresso e uscita
+  - le automazioni, 
+  - i gruppi, 
+- Produzione musicale con Ableton: 
+  - come registrare, 
+  - editare, 
+  - arrangiare, 
+  - mixare e masterizzare l'audio e il MIDI
+  - come usare gli strumenti, 
+  - gli effetti e i rack di Ableton, 
+  - come creare e modificare i preset, 
+  - come usare le funzioni di warping, slicing, quantizzazione, groove, resampling, freezing, flattening, bouncing.
+  - settaggi per il rendering audio migliore per il rilascio del prodotto finale
+- consigli e esempi di Creatività e performance con Ableton: 
+  - come ottimizzare l'uso dei: clip, le scene, i crossfader, i follow actions, i locators, i marker, i loop, i ritornelli, le macro, i mapping, i controller, i dispositivi Max for Live, i dispositivi CV, i dispositivi MPE, i dispositivi di Live 11.
+
 ## Gestione documentale
 
 ​	![flusso di lavoro](img/Flusso_di_lavoro_editoria.jpeg)
@@ -70,28 +105,32 @@ Descrivere le attività sviluppate all'interno del progetto per realizzare il pr
 
 
 Conversione con PANDOC dei files MD in:
-- LaTex: 
-    - pandoc Videocorso1.md -f markdown -t latex -s -o Videocorso1.tex
 - HTML:
     - pandoc --standalone --template Videocorso1.html Videocorso1.md
-- PDF:
+- EPUB:
+    - ...
+<!--- PDF:
     - pandoc -s -o Videocorso1.pdf Videocorso1.md
 - DOCX:
     - pandoc -o Videocorso1.docx -f markdown -t docx Videocorso1.md
-
+-->
 
 
 Caricati poi su GITHUB.
 
-
+Schema ASIS:
 |          |Riduzione dei tempi di gestione  |Miglioramento della qualità dei documenti |
 |----------|-------------------------------|-----------------------------|
 |Markdown  | `Repository Github collaborativa` | `link modificabili e sezione Segnalazione/Commenti` |
-|LaTex/HTML/PDF |`conversione con pandoc + eventuali librerie` | `miglioramento dell'HTML per automazione pagina WEB` |
-|Video     |`montaggio con SW di editing video e pubblicazione in repository/Youtube` |  |
+|HTML/EPUB |`conversione con pandoc + eventuali librerie` | `miglioramento dell'HTML per automazione pagina WEB` |
+|Video     |`montaggio con SW di editing video (eg. ShotCut) e pubblicazione in repository/Youtube` |  |
 |social    |`pubblicazione di estratti sui social` |  |
 
-
+Schema TOBE:
+|          |Riduzione dei tempi di gestione  |Miglioramento della qualità dei documenti |
+|----------|-------------------------------|-----------------------------|
+| sezione commenti | Pagina forum automatizzata con collegamento a un database | aggiunta di domande specifiche sulla qualità dei materiali |
+|altri formati |`conversione con pandoc + eventuali librerie` | `feedback dagli utenti su possibili miglioramenti o necessità di altri formati` |
 
 <!-- 
 > Per presentare il contributo delle diverse tecnologie addottate è possibile elencarle in una tabella. Può anche essere utili confrontare una versione ASIS del flusso di gestione, senza la tecnologia adottata, e una TOBE che include la tecnologia adottata.
