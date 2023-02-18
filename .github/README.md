@@ -5,19 +5,16 @@ Il corso è accessibile tramite il link sottostante hostato su Github Pages:
 
 [SITO WEB Progetto](https://julssal99.github.io/Editoria-Progetto/)
 
-<br>
-
 Il modello di progettazione e realizzazione del corso è il files seguente:
 
 [Modello progetto](/Modello%20Progetto%20d'Esame.md)
 
+<br>
+
 La repository è organizzata nel seguente modo:
-Cartelle:
  - Lezioni
    - L#_HTML-EPUB -> Files EPUB e HTML (i files video sono nella cartella L#_MD-videoimg)
    - L#_MD-videoimg -> Files Markdown
-<br>
-Files:
  - img
  - 'EPUB.html' -> pagina delle lezioni scaricabili in formato EPUB
  - 'Markdown.html' -> pagina delle lezioni scaricabili in formato MARKDOWN
