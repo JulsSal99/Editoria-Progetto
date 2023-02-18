@@ -273,14 +273,16 @@ a > p {
     transition: .5s;
 }
 
-a:hover > p {
-    transition-timing-function: ease-in-out;
-    -webkit-animation: fadeblock 0.4s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadeblock 0.4s; /* Firefox < 16 */
-        -ms-animation: fadeblock 0.4s; /* Internet Explorer */
-         -o-animation: fadeblock 0.4s; /* Opera < 12.1 */
-            animation: fadeblock 0.4s;
-    display:block;
+@media (min-width : 450px) {
+    a:hover > p {
+        transition-timing-function: ease-in-out;
+        -webkit-animation: fadeblock 0.4s; /* Safari, Chrome and Opera > 12.1 */
+           -moz-animation: fadeblock 0.4s; /* Firefox < 16 */
+            -ms-animation: fadeblock 0.4s; /* Internet Explorer */
+             -o-animation: fadeblock 0.4s; /* Opera < 12.1 */
+                animation: fadeblock 0.4s;
+        display:block;
+    }   
 }
 
 @keyframes fadeblock {
