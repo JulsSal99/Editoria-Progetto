@@ -132,7 +132,7 @@ Schema TOBE:
 |----------|-------------------------------|-----------------------------|
 | sezione commenti | `Pagina forum automatizzata con collegamento a un database` | `aggiunta di domande specifiche sulla qualità dei materiali` |
 |altri formati |`conversione con pandoc + eventuali librerie` | `feedback dagli utenti su possibili miglioramenti o necessità di altri formati` |
-| Download Markdown | 'codice per il download automatico della cartella specifica della lezione in MD' | ''  |
+| Download Markdown | `codice per il download automatico della cartella specifica della lezione in MD` | ` ` |
 
 Purtroppo PDF e DOC non sembra permettano l'integrazione di video al loro interno se non tramite link.
 
