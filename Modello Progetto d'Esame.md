@@ -103,6 +103,9 @@ Il testo tratterà i seguenti punti:
 
 ## Tecnologie adottate
 
+I files saranno accessibili tramite un sito HTML apposito mobile compliant in cui si potranno scegliere i formati più accessibili e consultare singolarmente le varie lezioni sia tramite pagina web sia tramite file locali.
+I files sarannno scaricabili tramite dei bottoni sul sito che permetteranno di far partire il download delle lezioni disponibili su Github.
+Per il download di files multipli zippati possono essere implementati siti esterni per il download.
 
 Conversione con PANDOC dei files MD in:
 - HTML:
@@ -115,8 +118,6 @@ Conversione con PANDOC dei files MD in:
     - pandoc -o Videocorso1.docx -f markdown -t docx Videocorso1.md
 -->
 
-
-Caricati poi su GITHUB.
 
 Schema ASIS:
 |          |Riduzione dei tempi di gestione  |Miglioramento della qualità dei documenti |
@@ -149,7 +150,6 @@ _Discutere i risultati ottenuti, verificando se gli obiettivi siano pienamente o
 
 ## Bibliografia e sitografia
 
-_Elencare i riferimenti bibliografici e risorse online che hanno maggiormente contribuito alla realizzazione del progetto._
 [DAW]: https://www.ableton.com/
 
 
