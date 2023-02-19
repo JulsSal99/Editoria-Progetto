@@ -96,14 +96,14 @@ Il testo tratterà i seguenti punti:
 
 I files saranno accessibili tramite un sito HTML apposito mobile compliant in cui si potranno scegliere i formati più accessibili e consultare singolarmente le varie lezioni sia tramite pagina web sia tramite file locali.
 I files sarannno scaricabili tramite dei bottoni sul sito che permetteranno di far partire il download delle lezioni disponibili su Github.
-Per il download di files Markdown verrà fornito un file zippato (Github non consente il download di files multipli come archivio zip. Esistono repository esterne che eseguono questa procedura. Ci limiteremo a generare manualmente il file zippato).
+Per il download di files Markdown verrà fornito un file zippato (Github non consente il download di files multipli come archivio zip. Esistono repository esterne, come "https://downgit.github.io", che eseguono questa procedura. Ci limiteremo a generare manualmente il file zippato).
 
 Conversione con PANDOC dei files MD in:
 - HTML:
     - pandoc --standalone --template Videocorso1.html Videocorso1.md
 - EPUB:
     - ...
-<!--- PDF:
+<!-- - PDF:
     - pandoc -s -o Videocorso1.pdf Videocorso1.md
 - DOCX:
     - pandoc -o Videocorso1.docx -f markdown -t docx Videocorso1.md
