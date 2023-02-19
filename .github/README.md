@@ -1,6 +1,6 @@
 # Editoria-Progetto
 
-Benvenuti nella repository del "Videocorso - Come produrre Musica in [DAW]. Corso medio-base".
+Benvenuti nella repository del "Videocorso - Come produrre Musica in Ableton Live 11. Corso medio-base".
 Il corso è accessibile tramite il link sottostante hostato su Github Pages:
 
 [SITO WEB Progetto](https://julssal99.github.io/Editoria-Progetto/)
