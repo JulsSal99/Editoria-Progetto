@@ -128,7 +128,7 @@ Schema TOBE:
 |altri formati |`conversione con pandoc + eventuali librerie` | `feedback dagli utenti su possibili miglioramenti o necessità di altri formati` |
 | Download Markdown | `codice per il download automatico della cartella specifica della lezione in MD` | ` ` |
 
-Purtroppo PDF e DOC non sembra permettano l'integrazione di video al loro interno se non tramite link.
+Purtroppo PDF e DOC non sembra permettano l'integrazione di video al loro interno se non tramite link o non sia facilmente realizzabile in un contesto di progetto collaborativo e con ridotti tempi di gestione.
 
 <!--
 > Per presentare il contributo delle diverse tecnologie addottate è possibile elencarle in una tabella. Può anche essere utili confrontare una versione ASIS del flusso di gestione, senza la tecnologia adottata, e una TOBE che include la tecnologia adottata.
