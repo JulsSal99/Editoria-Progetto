@@ -12,7 +12,7 @@
 ## Introduzione
 
 Obiettivo: Vendita di un Videocorso con in allegato _documentazione_ per approfondire i contenuti delle _videolezioni_.
-Verranno realizzati del files _HTML/EPUB/MD_ nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (link a video "non in elenco" su Youtube o visibili direttamente).
+Verranno realizzati del files _HTML/EPUB/MD_ nei quali saranno presenti approfondimenti testuali sugli argomenti e materiale visivo (per esempio link a video "non in elenco" su Youtube o visitabili direttamente).
 
 ## Obiettivi 
 
@@ -22,14 +22,6 @@ Verranno realizzati del files _HTML/EPUB/MD_ nei quali saranno presenti sia appr
 Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 
 ## Processo di produzione
-<br>
-<!---->
-
-- __Studio e analisi del tema__: produzione di un manuale per la produzione musicale alla fine della preparazione alla pubblicazione di tracce sui servizi di streaming.
-
-<br>
-<!---->
-
 - __Studio competitor__: canali Youtube amatoriali, ma con informazioni che forniscono sono spesso frammentarie, dispersive e non strutturate come un vero corso.
 - __Definizione del target__: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
 - __Studio e analisi del tema__: ricerche sui _manuali ufficiali_ dei [DAW], ricerche sugli _effetti audio_ e _plugin_ più utili interni e esterni al [DAW].
