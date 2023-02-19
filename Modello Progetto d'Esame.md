@@ -1,7 +1,7 @@
 
 `` Università degli Studi di Milano ``
 `` Corso di Editoria Digitale`` 
-`` Anno Accademico``
+`` Anno Accademico 2022/2023``
 `` Giulio Salada 951327`` 
 `` Alessandro Canclini 943223`` 
 
@@ -12,7 +12,7 @@
 ## Introduzione
 
 Obiettivo: Vendita di un Videocorso con in allegato _documentazione_ per approfondire i contenuti delle _videolezioni_.
-Verranno realizzati del files _HTML/EPUB/MD_ nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (lin a video "non in elenco" su Youtube o visibili da link).
+Verranno realizzati del files _HTML/EPUB/MD_ nei quali saranno presenti sia approfondimenti testuali sugli argomenti, sia visivi (link a video "non in elenco" su Youtube o visibili direttamente).
 
 ## Obiettivi 
 
