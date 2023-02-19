@@ -22,11 +22,11 @@ Verranno realizzati del files _HTML/EPUB/MD_ nei quali saranno presenti approfon
 Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 
 ## Processo di produzione
-- __Studio competitor__: canali Youtube amatoriali, ma con informazioni che forniscono sono spesso frammentarie, dispersive e non strutturate come un vero corso.
+- __Studio competitor__: canali Youtube amatoriali, con informazioni spesso frammentarie, dispersive e non strutturate come un vero corso.
 - __Definizione del target__: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
 - __Studio e analisi del tema__: ricerche sui _manuali ufficiali_ dei [DAW], ricerche sugli _effetti audio_ e _plugin_ più utili interni e esterni al [DAW].
-- Definizione dei canali: sito web specifico, pubblicizzazione tramite dei shorts sui social (TikTok, Instagram, Facebook), eventuali lezioni in diretta su Teams/Zoom.
-- __licenze di distribuzione__: eventuale _certificazione_ ufficiale.
+- __Definizione dei canali__: sito web specifico, pubblicizzazione tramite dei shorts sui social (TikTok, Instagram, Facebook), eventuali lezioni in diretta su Teams/Zoom.
+- __Licenze di distribuzione__: nessuna essendo un corso non con certificazione, con posibile implementazione futura.
 - __Originalità e obbiettivi comunicativi__: Corso inteso per chi produce musica e non solo incentrato sull'uso del [DAW]. 
 Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 - __Modello di business__: vendita del pacchetto del corso.
@@ -40,11 +40,10 @@ Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 <br>
 <!---->
 
-- Identificazione delle fonti: __manuali ufficiali__ del [DAW], riviste specializzate, etc.
+- __Identificazione delle fonti__: _manuali ufficiali_ del [DAW], riviste specializzate, etc.
 <!--
 - Diritti e aspetti legali: /////////
-- Cronoprogramma: /////////
-- Suddivisione dei task: /////////
+- Cronoprogramma e suddivisione dei task: /////////
 -->
 
 <!--
@@ -83,8 +82,8 @@ Il testo tratterà i seguenti punti:
   - come creare e modificare i preset, 
   - come usare le funzioni di warping, slicing, quantizzazione, groove, resampling, freezing, flattening, bouncing.
   - settaggi per il rendering audio migliore per il rilascio del prodotto finale
-- consigli e esempi di Creatività e performance con Ableton: 
-  - come ottimizzare l'uso dei: clip, le scene, i crossfader, i follow actions, i locators, i marker, i loop, i ritornelli, le macro, i mapping, i controller, i dispositivi Max for Live, i dispositivi CV, i dispositivi MPE, i dispositivi di Live 11.
+- _consigli_ ed _esempi_ di creatività e performance con Ableton: 
+  - come ottimizzare l'uso dei: clip, le scene, i crossfader, i follow actions, i locators, i marker, i loop, i ritornelli, le macro, i mapping, i controller, i dispositivi Max for Live, i dispositivi CV, i dispositivi MPE e i dispositivi di Live 11.
 
 ## Gestione documentale
 
