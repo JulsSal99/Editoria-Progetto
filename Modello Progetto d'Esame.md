@@ -26,7 +26,7 @@ Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 - __Definizione del target__: chi vuole approcciarsi sia al sound design, sia master engeneering o a musicisti interessati all'home recording.
 - __Studio e analisi del tema__: ricerche sui _manuali ufficiali_ dei [DAW], ricerche sugli _effetti audio_ e _plugin_ più utili interni e esterni al [DAW].
 - __Definizione dei canali__: sito web specifico, pubblicizzazione tramite dei shorts sui social (TikTok, Instagram, Facebook), eventuali lezioni in diretta su Teams/Zoom.
-- __Licenze di distribuzione__: nessuna essendo un corso non con certificazione, con posibile implementazione futura.
+- __Licenze di distribuzione__: nessuna essendo un corso non con certificazione, con possibile implementazione futura.
 - __Originalità e obbiettivi comunicativi__: Corso inteso per chi produce musica e non solo incentrato sull'uso del [DAW].
 Consigli utili a non snaturare le tracce audio e prepararle alla pubblicazione.
 - __Modello di business__: vendita del pacchetto del corso.
@@ -95,7 +95,7 @@ Il testo tratterà i seguenti punti:
 ## Tecnologie adottate
 
 I files saranno accessibili tramite un sito HTML apposito mobile compliant in cui si potranno scegliere i formati più accessibili e consultare singolarmente le varie lezioni sia tramite pagina web sia tramite file locali.
-I files sarannno scaricabili tramite dei bottoni sul sito che permetteranno di far partire il download delle lezioni disponibili su Github (attualmente hostato in https://github.com/JulsSal99/Editoria-Progetto ).
+I files sarannno scaricabili tramite dei bottoni sul sito che permetteranno di far partire il download delle lezioni disponibili su Github (attualmente in hosting in https://github.com/JulsSal99/Editoria-Progetto ).
 Per il download di files Markdown verrà fornito un file zippato (Github non consente il download di files multipli come archivio zip. Esistono repository esterne, come "https://downgit.github.io", che eseguono questa procedura. Ci limiteremo a generare manualmente il file zippato).
 
 I files delle videolezioni saranno creati originariamente in MarkDown e poi convertiti con PANDOC:
@@ -107,9 +107,9 @@ I files delle videolezioni saranno creati originariamente in MarkDown e poi conv
          chmod +x html2ePub.sh
          ./html2ePub.sh Videocorso.html Videocorso.epub
 <!-- - PDF:
-    - pandoc -s -o Videocorso1.pdf Videocorso1.md
+    - pandoc L1HTML.html -t latex -o L1PDF.pdf
 - DOCX:
-    - pandoc -o Videocorso1.docx -f markdown -t docx Videocorso1.md
+    - pandoc input.md --reference-doc=my-reference.doc -o output.doc
 -->
 
 
