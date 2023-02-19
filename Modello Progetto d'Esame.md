@@ -7,7 +7,7 @@
 
 
 
-# Videocorso - Come produrre Musica in [DAW]. Corso medio-base.
+# Videocorso - Come produrre Musica in Ableton Live 11. Corso medio-base.
 
 ## Introduzione
 
