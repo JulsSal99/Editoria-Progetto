@@ -28,5 +28,5 @@ La repository è organizzata nel seguente modo:
  - 'sito.css' -> css di index.html, online.html, markdown.html, epub.html
 <br>
 
-Il progetto è stato scritto da scratch utilizzando le funzioni di HTML/CSS3.
+Il progetto è stato scritto da scratch (da zero) utilizzando le funzioni di HTML/CSS3.
 La licenza attualmente è libera: fatene buon uso del materiale 🤗.
