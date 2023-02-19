@@ -95,7 +95,7 @@ Il testo tratterà i seguenti punti:
 ## Tecnologie adottate
 
 I files saranno accessibili tramite un sito HTML apposito mobile compliant in cui si potranno scegliere i formati più accessibili e consultare singolarmente le varie lezioni sia tramite pagina web sia tramite file locali.
-I files sarannno scaricabili tramite dei bottoni sul sito che permetteranno di far partire il download delle lezioni disponibili su Github.
+I files sarannno scaricabili tramite dei bottoni sul sito che permetteranno di far partire il download delle lezioni disponibili su Github (attualmente hostato in https://github.com/JulsSal99/Editoria-Progetto ).
 Per il download di files Markdown verrà fornito un file zippato (Github non consente il download di files multipli come archivio zip. Esistono repository esterne, come "https://downgit.github.io", che eseguono questa procedura. Ci limiteremo a generare manualmente il file zippato).
 
 I files delle videolezioni saranno creati originariamente in MarkDown e poi convertiti con PANDOC:
